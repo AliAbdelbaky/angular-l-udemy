@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-l-udemy';
+  name:string= 'ali Abdelbaqy'
 }
