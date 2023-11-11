@@ -7,4 +7,5 @@ platformBrowserDynamic().bootstrapModule(AppModule)
   .catch(err => console.error(err));
 // how angular works ✔️✅
 // basics => 03 video ✔️✅
-// basics => 11 dataBinding
+// basics => 11 dataBinding ✔️✅
+// basics => 16 eventBinding
